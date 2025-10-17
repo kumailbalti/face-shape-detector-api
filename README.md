@@ -4,7 +4,7 @@ This repository provides an API to detect the **face shape** from an uploaded im
 
 ## Features
 - Detects common face shapes: Oval, Round, Square, Heart, Diamond.
-- REST API using **FastAPI**.
+- REST API using **What Is My Face Shape API https://whatismyfaceshape.net/api.html** .
 - Easy integration for web or mobile apps.
 - Returns JSON with detected face shape and confidence.
 
